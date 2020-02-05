@@ -1,0 +1,72 @@
+.container{
+	height:600px;
+	width:100%;
+	margin: 20px, 20px, 20px, 25px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+article{
+	position: relative;
+	width: 100%
+}
+
+.cover{
+	background-color: orange;
+}
+
+.title{
+	font-size: 24pt;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;	
+}
+
+.title2{
+	font-size: 16pt;
+	color: orange;
+	font-family: 'Oswald', sans-serif;	
+}
+
+.quotes{
+	margin: 20px;
+	font-size: 15;
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+}
+
+.link {
+font-family: 'Oswald', sans-serif;
+font-size: 15 px; 
+text-align: center;
+color: orange;
+letter-spacing: 0.1px;
+margin: auto;
+margin-top: 30px;
+display: block;
+border: solid 2px orange;
+width: 320px;
+line-height: 24px;
+padding: 10px 0 10px 0;
+text-decoration: none;
+transition: 0.4s;
+}
+
+.link:hover {
+color: white;
+background: orange;
+transition: 0.4s;
+}
+
+#jazba{
+	width: 100%;
+}
+
+#coverphoto{
+	width: 100%;
+}
+
+#image{
+	width: 100%
+}/* All CSS styles go here */
